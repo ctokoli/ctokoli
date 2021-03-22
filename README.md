@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ctokoli
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on flutter mobile ecommerce mobile app with woocommerce api.
+- 💞️ I’m looking to collaborate on flutter
+- 😎 I'm currently working on flutter mobile ecommerce mobile app with woocommerce api.
 - 📫 How to reach me matumasie@gmail.com
 
 <!---
