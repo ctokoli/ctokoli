@@ -4,18 +4,22 @@ ctokoli/ctokoli is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-## Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+
+
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> I'm Cephas Tokoli (@ctokoli)</h1>
+
+<h3 align="center">A Full-Stack Developer </h3>
 
 Hi, I am Cephas Tokoli, Full Stack Developer and a Student at Microverse, a remote software development school, learning JavaScript, React, and  Ruby on Rails.
 
-:mailbox: Reach me out!
+:mailbox: Reach out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@ctokoli-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ctokoli)](https://twitter.com/ctokoli) [![Linkedin Badge](https://img.shields.io/badge/-ctokoli-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cephas-tokoli-a25204123/) [![Facebook Badge](https://img.shields.io/badge/-@ctokoli-1877f2?style=flat&labelColor=1877f2&logo=facebook&logoColor=white)](https://www.facebook.com/ctokoli/) [![Mail Badge](https://img.shields.io/badge/-ctokoli-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:matumasie@gmail.com)
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently learning Software development at Microverse
-- 👀 I’m interested in Software development
+- 🔭 I’m currently learning Software development at Microverse![](https://img.shields.io/badge/-Microverse-blueviolet) 
+- 👀 I’m interested in Software development🧑🏽‍💻
 - 🌱 I’m currently learning JavaScript and React.
 - 💞️ I’m looking to collaborate on any web projects
 - 📫 How to reach me: matuamsie@gmail.com.
