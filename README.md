@@ -10,7 +10,7 @@ Hi, I am Cephas Tokoli, Full Stack Developer and a Student at Microverse, a remo
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@ctokoli-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ctokoli)](https://twitter.com/ctokoli) [![Linkedin Badge](https://img.shields.io/badge/-ctokoli-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cephas-tokoli-a25204123/) [![Facebook Badge](https://img.shields.io/badge/-@ctokoli-1877f2?style=flat&labelColor=1877f2&logo=facebook&logoColor=white)](https://www.facebook.com/ctokoli/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:matumasie@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@ctokoli-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ctokoli)](https://twitter.com/ctokoli) [![Linkedin Badge](https://img.shields.io/badge/-ctokoli-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cephas-tokoli-a25204123/) [![Facebook Badge](https://img.shields.io/badge/-@ctokoli-1877f2?style=flat&labelColor=1877f2&logo=facebook&logoColor=white)](https://www.facebook.com/ctokoli/) [![Mail Badge](https://img.shields.io/badge/-ctokoli-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:matumasie@gmail.com)
 
 <!-- TODO: Add last video link -->
 
