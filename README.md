@@ -24,14 +24,14 @@ Hi, I am Cephas Tokoli, Full Stack Developer and a Student at Microverse, a remo
 - 💞️ I’m looking to collaborate on any web projects
 - 📫 How to reach me: matuamsie@gmail.com.
 
-#### Top Technologies
+## Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![CSS Badge](https://img.shields.io/badge/-CSS-007acc?style=for-the-badge&labelColor=black&logo=css3&logoColor=007acc)](#) [![Ruby Badge](https://img.shields.io/badge/-Ruby-820C02?style=for-the-badge&labelColor=black&logo=ruby&logoColor=820c02)](#) [![Node Badge](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&labelColor=black&logo=node.js&logoColor=43853d)](#)
 
 
-#### Github Stats
+## Github Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ctokoli&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
 
 ## 🏆 GitHub Trophies
