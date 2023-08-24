@@ -33,7 +33,7 @@ Hi, I am Cephas Tokoli, Full Stack Developer and a Student at Microverse, a remo
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ctokoli&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Ipenywis's github stat](https://github-readme-stats.vercel.app/api?username=ctokoli&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 
 
