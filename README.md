@@ -32,6 +32,15 @@ Hi, I am Cephas Tokoli, Full Stack Developer and a Student at Microverse, a remo
 
 
 #### Github Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ctokoli&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ctokoli&theme=flat)
+
+## 🤝 Let's Connect
+
+I'm always open to interesting projects and collaborations. If you want to discuss anything, feel free to reach out!
 
 
 
