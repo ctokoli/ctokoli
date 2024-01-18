@@ -18,9 +18,9 @@ Hi, I am Cephas Tokoli, Full Stack Developer and a Student at Microverse, a remo
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently learning Software development at Microverse![](https://img.shields.io/badge/-Microverse-blueviolet) 
+- 🔭 I was a student at Microverse![](https://img.shields.io/badge/-Microverse-blueviolet) 
 - 👀 I’m interested in Software development🧑🏽‍💻
-- 🌱 I’m currently learning JavaScript and React.
+- 🌱 Spent 1300+ hours in a remote environment building collaborative projects.
 - 💞️ I’m looking to collaborate on any web projects
 - 📫 How to reach me: matuamsie@gmail.com.
 
