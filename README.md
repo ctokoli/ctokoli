@@ -18,7 +18,7 @@ Hi, I am Cephas Tokoli, Full Stack Developer and a Student at Microverse, a remo
 
 <!-- TODO: Add last video link -->
 
-- 👀 Crafting software solutions that make our lives better 🧑🏽‍💻
+- 👀 Crafting software solutions that make our lives and the world a better place 🧑🏽‍💻
 - 🌱 Spent 1300+ hours in a remote environment building collaborative projects.
 - 💞️ I’m looking to collaborate on any web projects
 - 📫 How to reach me: matuamsie@gmail.com.
