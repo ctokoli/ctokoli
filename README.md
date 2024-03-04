@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">A Full-Stack Developer </h3>
 
-Hi, I am Cephas Tokoli, Full Stack Developer and a Student at Microverse, a remote software development school, learning JavaScript, React, and  Ruby on Rails.
+I'm a Full-Stack Engineer and Mentor with extensive background in software development with over 3 years of hands-on experience in both frontend and backend development. I am passionate about learning and development with a desire to work in a collaborative environment to help your organization reach it's goals and continually improve my skills using Reactjs and other tools.
 
 :mailbox: Reach out
 
